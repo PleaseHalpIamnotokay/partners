@@ -3,5 +3,7 @@
     "banner": "https://null.png",
     "invite": null,
     "group": null,
-    "game": null
+    "game": null,
+    "sponsored": false,
+    "verified": false
 }
